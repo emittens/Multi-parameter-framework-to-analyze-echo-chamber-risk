@@ -1,0 +1,2 @@
+# Multi-parameter-framework-to-analyze-echo-chamber-risk
+framework to analyze echo chamber risk in social media ego networks, using datasets from Facebook and Twitter. Combines user interest similarity, structural connectivity, community structure, and cross-community semantic distances. We extract three core metrics per ego: Ego-Alter Similarity, Community Embedding Similarity, and Escape Potentia.
